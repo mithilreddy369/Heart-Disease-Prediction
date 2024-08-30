@@ -5,7 +5,6 @@ generating synthetic data for improved model performance. The project demonstrat
 predictive capabilities and robust results, showcasing proficiency in ensemble methods and data
 balancing techniques.
 
-**Technologies Used:** Python, Machine Learning Algorithms, Pandas, NumPy.
 
 ![accuracies](https://github.com/user-attachments/assets/32424787-718b-4f97-b34a-bc715d6283f3)
 
