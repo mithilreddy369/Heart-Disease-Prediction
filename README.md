@@ -6,3 +6,7 @@ predictive capabilities and robust results, showcasing proficiency in ensemble m
 balancing techniques.
 
 **Technologies Used:** Python, Machine Learning Algorithms, Streamlit, Pandas, NumPy.
+
+![accuracies](https://github.com/user-attachments/assets/32424787-718b-4f97-b34a-bc715d6283f3)
+
+![results](https://github.com/user-attachments/assets/a8891e7f-fb12-4f61-8970-384c2cf8f2d9)
